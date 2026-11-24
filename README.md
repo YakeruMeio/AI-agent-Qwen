@@ -278,14 +278,12 @@ tail -100 /content/drive/MyDrive/agent/logs/proxy.log
 - `beautifulsoup4`
 - `lxml`
 - `huggingface_hub`
-- `duckduckgo-search==6.4.2`
+- `duckduckgo-search`
 - `diffusers`
 - `transformers`
 - `accelerate`
 - `xformers`
 - `gradio`
-
-Версия `duckduckgo-search` зафиксирована, потому что в новых версиях менялся асинхронный API.
 
 ---
 
@@ -328,5 +326,5 @@ File → Save a copy in GitHub
 
 ## Ссылки
 
-- Репозиторий: <https://github.com/YakeruMeio/ai-agent-qwen>
-- Открыть в Colab: <https://colab.research.google.com/github/YakeruMeio/ai-agent-qwen/blob/main/Qwen2.5-VL-7B.ipynb>
+- Репозиторий: <https://github.com/YakeruMeio/AI-agent-Qwen>
+- Открыть в Colab: <https://colab.research.google.com/github/YakeruMeio/AI-agent-Qwen/blob/main/Qwen2.5-VL-7B.ipynb>
