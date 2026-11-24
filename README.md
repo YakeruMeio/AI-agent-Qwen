@@ -1,6 +1,6 @@
 # AI Agent Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YakeruMeio/ai-agent-qwen/blob/main/agent.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YakeruMeio/ai-agent-qwen/blob/main/Qwen2.5-VL-7B.ipynb)
 
 Локальный AI-агент в Google Colab на базе **Qwen2.5-VL**, **llama.cpp**, **Stable Diffusion** и **Gradio**.
 
@@ -329,4 +329,4 @@ File → Save a copy in GitHub
 ## Ссылки
 
 - Репозиторий: <https://github.com/YakeruMeio/ai-agent-qwen>
-- Открыть в Colab: <https://colab.research.google.com/github/YakeruMeio/ai-agent-qwen/blob/main/agent.ipynb>
+- Открыть в Colab: <https://colab.research.google.com/github/YakeruMeio/ai-agent-qwen/blob/main/Qwen2.5-VL-7B.ipynb>
